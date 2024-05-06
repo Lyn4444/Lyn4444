@@ -13,6 +13,13 @@
 唯有此刻悠然，与诗酒相伴，守望着明月清辉，凝眸远方。
 
 
-Lyn4444/Lyn4444 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+![](https://github-readme-stats.vercel.app/api?username=lyn4444e&show_icons=true&theme=transparent)
+
+![Visitor Count](https://profile-counter.glitch.me/lyn4444/count.svg)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn4444&layout=compact&theme=tokyonight)
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=lyn4444&theme=dracula)
+
+
 
