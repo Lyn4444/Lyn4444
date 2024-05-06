@@ -13,12 +13,11 @@
 唯有此刻悠然，与诗酒相伴，守望着明月清辉，凝眸远方。
 
 
-![](https://github-readme-stats.vercel.app/api?username=lyn4444&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=lyn4444&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn4444&layout=compact&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyn4444&layout=compact&theme=tokyonight)
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=lyn4444&theme=dracula)
+
 
 
 
